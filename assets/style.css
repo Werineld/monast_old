@@ -308,7 +308,7 @@ body.overflow {
     background: url("../assets/images/1.webp");
     -webkit-background-size: cover;
     background-size: cover;
-    height: 100vh;
+    height: 50vh;
 }
 
 .intro__inner {
